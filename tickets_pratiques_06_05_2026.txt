@@ -1,0 +1,35 @@
+# Practical tickets and Rebel strategy — Vincennes 06/05/2026
+
+Date: 2026-05-06
+Race: VINCENNES R1C1 - PRIX DE NIORT
+
+=== Practical Options ===
+
+1) Consensus / Safe (resserré)
+   Ticket: 2-9-6-16-15
+   Rationale: Aligns with press + AI consensus (Rocky Mom, Kazan Beach, Enea Font, Etranger Joyeuse, Dauphin Joyeuse)
+
+2) Consensus Expanded (8 chevaux - combiné)
+   Ticket set: 2-9-6-16-13-15-14-5
+   Rationale: Covers press consensus and useful outsiders (Icare, Distillato, Redbull)
+
+3) Rebel / Value (small speculative)
+   Ticket: 11-13-16-3-6
+   Rationale: Market moves (odds crash on 11 and 13) indicate smart-money flow; high payout potential if it hits.
+
+4) Coverage (7-chevaux Quinté 5/7 combinations)
+   Selection: {2,3,6,9,10,15,16}
+   Note: file tickets_quinte_06_05_2026.csv contains all 21 five-number combinations (5/7).
+
+=== Notes ===
+- Use small speculative stake for the Rebel ticket and larger for the Consensus ticket.
+- Consider couplés hedges: (2-9), (2-6), (2-16), (9-6), (9-16), (6-16)
+
+---
+
+Rebel signal (market moves observed):
+- N°11 Jubii Vang: 89/1 → 22/1
+- N°13 Icare des Forges: 29/1 → 16/1
+- N°6 Enea Font: 16/1 → 14/1 (smaller move)
+
+These are recorded in the repo (market notes). Good luck!
