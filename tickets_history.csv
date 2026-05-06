@@ -1,0 +1,16 @@
+date,race,source,type,selection,stake_eur,comment
+2026-05-06,VINCENNES R1C1,Q.Wen,Quinté,2-3-10-16-9,2,Ticket manuscrit 1
+2026-05-06,VINCENNES R1C1,Q.Wen,Quinté,2-10-16-3-9,2,Ticket manuscrit 2
+2026-05-06,VINCENNES R1C1,Q.Wen,Quinté,9-5-13-15-16,2,Ticket manuscrit 3
+2026-05-06,VINCENNES R1C1,Meta AI,Quinté,2-9-13-16-6,2,Meta AI 1
+2026-05-06,VINCENNES R1C1,Meta AI,Quinté,3-9-10-13-16,2,Meta AI 2
+2026-05-06,VINCENNES R1C1,Meta AI,Quinté,3-9-10-5-16,2,Meta AI 3
+2026-05-06,VINCENNES R1C1,GitHub,Selection,2-9-6-16-13-15-14-5,0,GitHub 8-horse selection
+2026-05-06,VINCENNES R1C1,GitHub,Tiercé,2-9-6-16,0,GitHub Tiercé base
+2026-05-06,VINCENNES R1C1,GitHub,Quinté,2-9-6-16-13,2,GitHub Quinté variant 1
+2026-05-06,VINCENNES R1C1,GitHub,Quinté,6-15-2-9-16,2,GitHub Quinté variant 2
+2026-05-06,VINCENNES R1C1,Gemini,Quinté,9-3-6-12-10,2,Gemini 1
+2026-05-06,VINCENNES R1C1,Gemini,Quinté,6-15-4-11-7,2,Gemini 2
+2026-05-06,VINCENNES R1C1,Gemini,Quinté,12-10-3-9-6,2,Gemini 3
+2026-05-06,VINCENNES R1C1,User,Quinté,2-9-6-16-15,2,Mon ticket
+2026-05-06,VINCENNES R1C1,Rebel,Quinté,11-13-16-3-6,0.5,Market-move speculative
